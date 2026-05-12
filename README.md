@@ -1,5 +1,5 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Arthur Correia Carvalho
+> Estudante de Minecraft Profissional
  
 ---
  
