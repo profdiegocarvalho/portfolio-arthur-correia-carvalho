@@ -12,7 +12,7 @@ O **NeuroInsight** é uma plataforma avançada de análise para pesquisa em Escl
 Desenvolvido para oferecer uma visão holística da neurodegeneração, o dashboard processa métricas críticas como a escala **ALSFRS-R** (Revised ALS Functional Rating Scale) e a **Capacidade Vital Forçada (CVF)**, utilizando motores de visualização de alto desempenho para renderizar estruturas proteicas (como TDP-43 e SOD1) diretamente no navegador.
 
 ---
-![Dashboard NeuroInsight](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/layout-dashboard.svg)
+![Dashboard NeuroInsight](./image/image1.png)
 *Figura 1: Interface principal integrando gráficos de tendência clínica e visualizador 3D molecular.*
  
 ## 🚀 Tecnologias Utilizadas
@@ -30,7 +30,7 @@ O projeto foi estruturado para garantir precisão científica e suporte à decis
 * **Motor de Integridade:** Testes de lógica clínica automatizados que validam a consistência dos dados longitudinais dos pacientes.
 * **Badges de Status:** Visualização clara do perfil genético (Mutação SOD1, C9orf72, Esporádica) via dashboard unificado.
  
-![Gráfico de Performance e Métricas](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/activity.svg)
+![Gráfico de Performance e Métricas](./image/image1.png)
 *Figura 2: Análise métrica do desempenho do modelo e tendências de progressão respiratória.*
  
 ## 🔧 Como Executar
@@ -39,7 +39,7 @@ O projeto foi estruturado para garantir precisão científica e suporte à decis
 3. Instale as dependências: `npm install`.
 4. Execute o servidor de desenvolvimento: `npm run dev`.
  
-![Demonstração do Fluxo de Dados](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/database.svg)
+![Demonstração do Fluxo de Dados](./image/image1.png)
 *Figura 3: Representação visual do pipeline de dados entre Firestore e o motor de analytics.*
  
 ---
