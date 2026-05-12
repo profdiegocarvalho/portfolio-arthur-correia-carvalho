@@ -149,4 +149,4 @@ Distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais info
 
 ---
 
-[⬆ Voltar ao início](#-sentimentai-reconhecimento-de-emoções-por-visão-computacional)
+[⬆ Voltar ao início](https://github.com/profdiegocarvalho/portfolio-arthur-correia-carvalho)
